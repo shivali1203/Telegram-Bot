@@ -10,9 +10,6 @@ This Bot will show you Programming quotes,jokes,random jokes and Covid19 live gl
 https://official-joke-api.appspot.com/jokes/programming/random 	     
 https://official-joke-api.appspot.com/jokes/random
 
-<img src="./screenshots/1.png" alt="drawing" width="200">
-<img src="./screenshots/2.png" alt="drawing" width="200">
-<img src="./screenshots/4.png" alt="drawing" width="200">
 
 
 ## Usage
@@ -24,12 +21,4 @@ set token inside MyBot.java
             return "BOT TOKEN"; 
         }
 ```
-For detailed explanation, visite [How To](https://github.com/rubenlagus/TelegramBots/wiki/Getting-Started) 
-```bash
-$ git clone https://github.com/viralvaghela/Telegram-Bot-Array-Index-Out-Of-Bound.git
-```
-## Questions or Suggestions
-Feel free to create issues [here](https://github.com/viralvaghela/Telegram-Bot-Array-Index-Out-Of-Bound/issues) 
-## [Try it](https://telegram.me/arrayindexoutofbound)
-## [Follow me on Instagram for daily coding posts](https://instagram.com/coding_boy_)
 
